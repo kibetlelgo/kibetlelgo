@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kibetlelgo
 - 👀 I’m interested in making Applications
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
